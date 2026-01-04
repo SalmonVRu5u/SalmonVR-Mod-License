@@ -1,0 +1,7 @@
+SalmonVR Agreement Addition:
+GNU General Public License V3 Additional Agreement
+● Usage Agreement: All "fork" or modified versionas of the mod 'Spell Caster' must be set to an open source project at all time.
+● Publicity: You don't have to use my name in the "fork" or modified version, but you must include the original Modrinth/Mod page in the description; https://modrinth.com/mod/spell-caster
+● Privacy: You may have the modified/"fork" version private as long as it can not be found in a public place, if so, the copied version must follow this License Agreement.
+● WARNING!: Failure to follow this agreement will result in the mod being taken down.
+● Good Faith Protection: if the "fork" or modified version gets stolen from a private source, and is published or sold without credit or following these agreements, the original "fork" or modified version creator will not face "piracy" or copyright consequences.
